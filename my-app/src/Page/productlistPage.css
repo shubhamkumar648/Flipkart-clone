@@ -1,0 +1,16 @@
+.productPage-container {
+
+    display: flex;
+
+}
+
+.filter-Container {
+  background-color: aqua;
+  width: 20%;
+
+}
+
+.productCard-Contaier {
+    background-color: blue;
+    width: 80%;
+}
